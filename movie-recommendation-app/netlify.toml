@@ -3,7 +3,7 @@
   publish = ".next"
 
 [build.environment]
-  NEXT_PUBLIC_TMDB_API_KEY = "your_api_key_here"
+  NEXT_PUBLIC_TMDB_API_KEY = 0c774b38cfc6a172707758b3a349b155
 
 [functions]
   directory = "netlify/functions"
